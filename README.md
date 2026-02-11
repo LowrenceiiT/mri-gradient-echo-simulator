@@ -1,3 +1,6 @@
+<img width="1907" height="978" alt="image" src="https://github.com/user-attachments/assets/978ff854-6c2f-48eb-addf-6e0b2f69bef2" />
+
+
 Project Structure 
 
 mri-gradient-echo-simulator/
